@@ -9,6 +9,7 @@ image_resource:
 
 inputs:
 - name: easy-catalog
+- name: catalog-version
 
 outputs:
 - name: builds
